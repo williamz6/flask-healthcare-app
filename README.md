@@ -4,7 +4,7 @@ A full-stack web application built with Flask, MongoDB, and Nginx for collecting
 
 ## 🚀 Live Demo
 **Application URL:** http://13.50.112.196/  
-**GitHub Repository:** https://github.com/williamz6/flask-healthcare-application.git
+**GitHub Repository:** https://github.com/williamz6/flask-healthcare-app.git
 
 ## 📋 Project Overview
 
